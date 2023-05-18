@@ -26,7 +26,7 @@ const Menu = [
     " Breeds in Himalayas; widespread in winter. ID Extremely variable, with black-and-white head pattern, grey or black mantle, and largely white to largely black wing-coverts. Black-backed birds are possibly confusable with White-browed, but that species is much larger and has a largely black head with a broad white supercilium. Subspecies variation among breeding adults (sexes are similar) is covered below. There is considerable variation in patterning of black on head and breast of non-breeding and first-winter birds, although in some subspecies non-breeding birds retain characteristics of breeding plumage. Juveniles of the two breeding subspecies have grey head, mantle and breast with whitish supercilium. M. a. alba (including dukhunensis) (widespread winter visitor) has grey mantle, white forehead and face, and black hind crown/nape, throat and breast. M. a. personata (breeding NW and widespread winter visitor) has grey mantle and black head and breast, with white forehead and face patch, giving rise to pale-masked appearance. M. a. alboides (breeding N and wintering more widely in N and E) is much as personata, but has black mantle and back, although upperparts of female are variably mixed with grey. M. a leucopsis (winter visitor to N, NE and Andamans) has black mantle and back, but otherwise has head pattern as breeding male alba but with white throat. M. a. ocularis (uncommon visitor to N and NE) has grey mantle and back and is much as alba, but has a black eye-stripe in all plumages. M. a. baicalensis (widespread winter visitor) has grey mantle and back and is much as alba, but has white chin and upper throat contrasting with black breast. Voice Call is a loud tsee vit; song is a lively twittering and chattering with call-like notes. HH Breeds by running waters in open country in hills and mountains; winters near water in open country."},
     {
       id: 4,
-      image: "../images/Short-eared Owl.jpg",
+      image: "images/Short-eared Owl.jpg",
       name: "Short-eared Owl Asio flammeus",
       category: "Grassland",
       Height: "37-39 cm",
@@ -35,7 +35,7 @@ const Menu = [
     },
     {
       id: 5,
-      image: "../images/White-throated Kingfisher.jpg",
+      image: "images/White-throated Kingfisher.jpg",
       name: "White-throated Kingfisher Halcyon smyrnensis",
       category: "Wetland",
       Height: "27-28 cm",
@@ -44,7 +44,7 @@ const Menu = [
     },
     {
       id: 6,
-      image: "../images/Common Kingfisher.jpg",
+      image: "images/Common Kingfisher.jpg",
       name: "Common Kingfisher Alcedo atthis",
       category: "Seashore",
       Height: "16 cm",
@@ -53,7 +53,7 @@ const Menu = [
     },
     {
       id: 7,
-      image: "../images/Blue Rock Thrush.jpg",
+      image: "images/Blue Rock Thrush.jpg",
       name: "Blue Rock Thrush Monticola solitarius",
       category: "Rocky Areas",
       Height: "20 cm ",
@@ -62,7 +62,7 @@ const Menu = [
     },
     {
       id: 8,
-      image: "../images/Verditer Flycatcher.jpg",
+      image: "images/Verditer Flycatcher.jpg",
       name: "Verditer Flycatcher Eumyias thalassinus",
       category: "Open forest",
       Height: "16 cm ",
@@ -71,7 +71,7 @@ const Menu = [
     },
     {
       id: 9,
-      image: "../images/Olive-backed Pipit.jpg",
+      image: "images/Olive-backed Pipit.jpg",
       name: "Olive-backed Pipit Anthus hodgsoni",
       category: "Open forest",
       Height: "15 cm ",
@@ -80,7 +80,7 @@ const Menu = [
     },
     {
       id: 10,
-      image: "../images/Plain Prinia.jpg",
+      image: "images/Plain Prinia.jpg",
       name: "Plain Prinia Prinia inornata",
       category: "Grassland",
       Height: "13 cm",
@@ -107,7 +107,7 @@ const Menu = [
       },
     {
       id: 13,
-      image: "../images/Great Cormorant.jpg",
+      image: "images/Great Cormorant.jpg",
       name: "Great Cormorant Phalacrocorax carbo",
       category: "Wetland",
       Height: "80-100 cm",
@@ -115,7 +115,7 @@ const Menu = [
         " Widespread resident; unrecorded in parts of NW and NE subcontinent and Western Ghats. ID Larger and bulkier than Indian, with thicker neck, larger and more angular head, and stouterbill. Adult breeding glossy black, with dark gular skin, red spot at base of bill, white cheeks and throat, extensive white plumes covering much of head, and white thigh patch. Non-breeding lacks white head plumes and thigh patch. Base of bill and gular skin are yellow, and white cheeks and throat patch are more extensive than Indian. Immature similar but browner with underparts dark or extensively whitish or pale buff. HH Flies and swims like a typical cormorant, see Little. Usually found singly or in small groups, although sometimes joins fishing flocks of other cormorants. Gathers in large numbers to breed, and often roosts communally in winter. Coastal waters. saltpans, reservoirs, lakes, and large inland lakes and rivers."},
     {
       id: 14,
-      image: "../images/Wood Sandpiper.jpg",
+      image: "images/Wood Sandpiper.jpg",
       name: "Wood Sandpiper Tringa glareola",
       category: "Waterbodies",
       Height: "18-21 cm ",
@@ -124,7 +124,7 @@ const Menu = [
       },
     {
       id: 15,
-      image: "../images/Great Crested Grebe.jpg",
+      image: "images/Great Crested Grebe.jpg",
       name: "Great Crested Grebe Podiceps cristatus",
       category: "Waterbodies",
       Height: "46 - 51 cm",
@@ -132,7 +132,7 @@ const Menu = [
         " Breeds in NW subcontinent; winter visitor to N subcontinent. ID Large and slender-necked. with pinkish bill. Black crown does not extend to eye, and has white cheeks and foreneck in non- breeding plumage. Rufous-orange ear-tufts and white cheeks and foreneck in breeding plumage. Juvenile is similar to non-breeding, but has brown striping on cheeks. Swims with body low in the water and neck held erect. HH Both sexes perform striking, ritual courtship displays. Favours open water: lakes and reservoirs; also coastal waters and saltpans."},
     {
       id: 16,
-      image: "../images/Red-crested Pochard.jpg",
+      image: "images/Red-crested Pochard.jpg",
       name: "Red-crested Pochard Netta rufina",
       category: "Waterbodies",
       Height: "53-57 cm ",
@@ -141,7 +141,7 @@ const Menu = [
     },
     {
       id: 17,
-      image: "../images/Black-winged Stilt.jpg",
+      image: "images/Black-winged Stilt.jpg",
       name: "Black-winged Stilt Himantopus himantopus",
       category: "Wetland",
       Height: "35-40 cm",
@@ -150,7 +150,7 @@ const Menu = [
       },
     {
       id: 18,
-      image: "../images/Red-wattled Lapwing.jpg",
+      image: "images/Red-wattled Lapwing.jpg",
       name: "Red-wattled Lapwing Vanellus indicus",
       category: "Waterbodies",
       Height: "32-35 cm",
@@ -159,7 +159,7 @@ const Menu = [
       },
       {
         id: 19,
-        image: "../images/Paddyfield Pipit.jpg",
+        image: "images/Paddyfield Pipit.jpg",
         name: "Paddyfield Pipit Anthus rufulus",
         category: "Grassland",
         Height: "15 cm ",
