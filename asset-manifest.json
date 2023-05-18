@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Bird-Gallery/static/css/main.ffd17632.css",
-    "main.js": "/Bird-Gallery/static/js/main.1900d3ca.js",
+    "main.js": "/Bird-Gallery/static/js/main.5962b7f7.js",
     "index.html": "/Bird-Gallery/index.html",
     "main.ffd17632.css.map": "/Bird-Gallery/static/css/main.ffd17632.css.map",
-    "main.1900d3ca.js.map": "/Bird-Gallery/static/js/main.1900d3ca.js.map"
+    "main.5962b7f7.js.map": "/Bird-Gallery/static/js/main.5962b7f7.js.map"
   },
   "entrypoints": [
     "static/css/main.ffd17632.css",
-    "static/js/main.1900d3ca.js"
+    "static/js/main.5962b7f7.js"
   ]
 }
